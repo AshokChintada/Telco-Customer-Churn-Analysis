@@ -15,7 +15,7 @@ The report includes visual insights into:
 
 ## 📁 File Included
 
-- `Telco-Customer-Churn.pbix` – The Power BI dashboard file
+- `Churn.pbix` – The Power BI dashboard file
 
 ## 💡 Use Case
 
