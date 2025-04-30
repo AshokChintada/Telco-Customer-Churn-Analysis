@@ -20,7 +20,6 @@ Telecom companies face high competition, making customer churn a critical issue.
 
 - **Power BI** – Interactive dashboard for data visualization
 - **Microsoft Excel** – For data preparation and cleaning
-- **PDF** – Static format report for distribution and review
 
 ---
 
@@ -97,7 +96,7 @@ This analysis provides data-backed insight into customer churn behavior. The Pow
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](dashboard_preview.png)
+![Dashboard Overview]()
 
 
 ## 📌 How to Use
