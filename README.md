@@ -96,7 +96,7 @@ This analysis provides data-backed insight into customer churn behavior. The Pow
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview]()
+![Dashboard Overview](dashboard_preview.png)
 
 
 ## 📌 How to Use
