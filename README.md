@@ -95,6 +95,11 @@ This analysis provides data-backed insight into customer churn behavior. The Pow
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Overview](dashboard_preview.png)
+
+
 ## 📌 How to Use
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
